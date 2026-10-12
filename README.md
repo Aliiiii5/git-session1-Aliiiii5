@@ -3,7 +3,7 @@
 **Name:** Ali El Addouli
 **GitHub username:** Aliiiii5
 
-A small web project used to practice the Git and GitHub workflow: commits, branches, merging, and syncing with a remote.
+A simple small web project used to practice the Git and GitHub workflow: commits, branches, merging, and syncing with a remote.
 
 ## Technologies
 - Git
