@@ -20,3 +20,4 @@ git status
 Learn more: [Git documentation](https://git-scm.com/doc)
 
 ![Project banner](assets/project-banner.svg)
+Last updated during Git Assignment 1.
